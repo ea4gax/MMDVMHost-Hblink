@@ -1,0 +1,34 @@
+.diskuse {
+   font-family: monospace;
+   font-size: 14px;
+}
+
+.repeaterinfo {
+   font-family: monospace;
+   font-size: 14px;
+}
+
+.sysinfo {
+   font-family: monospace;
+   font-size: 14px;
+}
+
+.localTx {
+   font-family: monospace;
+   font-size: 14px;
+}
+
+.lastHeard {
+   font-family: monospace;
+   font-size: 14px;
+}
+
+.curTx {
+   font-family: monospace;
+   font-size: 14px;
+}
+
+.ysfGateways {
+   font-family: monospace;
+   font-size: 14px;
+}
